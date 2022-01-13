@@ -1,0 +1,113 @@
+Working with input file: 
+./input/asc50.dat
+Sort Method: QuickSort3
+
+Number of Comparisons: 49
+Number of Swaps: 0
+
+
+====================================================================
+Verbose Output: 
+C: 1 S: 0 | Compare [1] [2]
+C: 2 S: 0 | Compare [2] [3]
+C: 3 S: 0 | Compare [3] [4]
+C: 4 S: 0 | Compare [4] [5]
+C: 5 S: 0 | Compare [5] [6]
+C: 6 S: 0 | Compare [6] [7]
+C: 7 S: 0 | Compare [7] [8]
+C: 8 S: 0 | Compare [8] [9]
+C: 9 S: 0 | Compare [9] [10]
+C: 10 S: 0 | Compare [10] [11]
+C: 11 S: 0 | Compare [11] [12]
+C: 12 S: 0 | Compare [12] [13]
+C: 13 S: 0 | Compare [13] [14]
+C: 14 S: 0 | Compare [14] [15]
+C: 15 S: 0 | Compare [15] [16]
+C: 16 S: 0 | Compare [16] [17]
+C: 17 S: 0 | Compare [17] [18]
+C: 18 S: 0 | Compare [18] [19]
+C: 19 S: 0 | Compare [19] [20]
+C: 20 S: 0 | Compare [20] [21]
+C: 21 S: 0 | Compare [21] [22]
+C: 22 S: 0 | Compare [22] [23]
+C: 23 S: 0 | Compare [23] [24]
+C: 24 S: 0 | Compare [24] [25]
+C: 25 S: 0 | Compare [25] [26]
+C: 26 S: 0 | Compare [26] [27]
+C: 27 S: 0 | Compare [27] [28]
+C: 28 S: 0 | Compare [28] [29]
+C: 29 S: 0 | Compare [29] [30]
+C: 30 S: 0 | Compare [30] [31]
+C: 31 S: 0 | Compare [31] [32]
+C: 32 S: 0 | Compare [32] [33]
+C: 33 S: 0 | Compare [33] [34]
+C: 34 S: 0 | Compare [34] [35]
+C: 35 S: 0 | Compare [35] [36]
+C: 36 S: 0 | Compare [36] [37]
+C: 37 S: 0 | Compare [37] [38]
+C: 38 S: 0 | Compare [38] [39]
+C: 39 S: 0 | Compare [39] [40]
+C: 40 S: 0 | Compare [40] [41]
+C: 41 S: 0 | Compare [41] [42]
+C: 42 S: 0 | Compare [42] [43]
+C: 43 S: 0 | Compare [43] [44]
+C: 44 S: 0 | Compare [44] [45]
+C: 45 S: 0 | Compare [45] [46]
+C: 46 S: 0 | Compare [46] [47]
+C: 47 S: 0 | Compare [47] [48]
+C: 48 S: 0 | Compare [48] [49]
+C: 49 S: 0 | Compare [49] [50]
+====================================================================
+Sorted Array: 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+

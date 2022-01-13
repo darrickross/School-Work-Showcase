@@ -1,0 +1,353 @@
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]  10C    4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]  10H    5S    QC  
+  7S    7D    6S    KD    QH    JD    4H  
+  3C    8D    8C    9C    8S    AD   10S  
+  9S    6H    8H    6D    3D    QS    9D  
+  JC    JS    2H    7H    9H    3S    2S  
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]         4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]         5S    QC  
+  7S    7D    6S    KD          JD    4H  
+  3C    8D    8C    9C          AD   10S  
+  9S    6H    8H    6D          QS    9D  
+  JC    JS    2H    7H          3S    2S  
+ 10C                                      
+ 10H                                      
+  QH                                      
+  8S                                      
+  3D                                      
+  9H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]         4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]         5S    QC  
+  7S    7D    6S    KD          JD    4H  
+  3C    8D    8C    9C          AD   10S  
+  9S    6H          6D          QS    9D  
+  JC    JS          7H          3S    2S  
+ 10C                                      
+ 10H                                      
+  QH                                      
+  8S                                      
+  3D                                      
+  9H                                      
+  8H                                      
+  2H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]         4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]         5S    QC  
+  7S    7D    6S    KD          JD    4H  
+  3C    8D    8C    9C          AD        
+  9S    6H          6D          QS        
+  JC    JS          7H          3S        
+ 10C   10S                                
+ 10H    9D                                
+  QH    2S                                
+  8S                                      
+  3D                                      
+  9H                                      
+  8H                                      
+  2H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]         4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]         5S    QC  
+  7S    7D    6S    KD          JD    4H  
+  3C    8D    8C    9C          AD        
+  9S                6D          QS        
+  JC                7H          3S        
+ 10C                6H                    
+ 10H                JS                    
+  QH               10S                    
+  8S                9D                    
+  3D                2S                    
+  9H                                      
+  8H                                      
+  2H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]   QS    4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]   3S    5S    QC  
+  7S    7D    6S    KD          JD    4H  
+  3C    8D    8C    9C          AD        
+  9S                6D                    
+  JC                7H                    
+ 10C                6H                    
+ 10H                JS                    
+  QH               10S                    
+  8S                9D                    
+  3D                2S                    
+  9H                                      
+  8H                                      
+  2H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]   QS    4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]   3S    5S    QC  
+  7S    7D    6S    KD    2S    JD    4H  
+  3C    8D    8C    9C          AD        
+  9S                6D                    
+  JC                7H                    
+ 10C                6H                    
+ 10H                JS                    
+  QH               10S                    
+  8S                9D                    
+  3D                                      
+  9H                                      
+  8H                                      
+  2H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]   QS    4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]   3S    5S    QC  
+  7S    7D    6S    KD    2S    JD    4H  
+  3C          8C    9C          AD        
+  9S                6D                    
+  JC                7H                    
+ 10C                6H                    
+ 10H                JS                    
+  QH               10S                    
+  8S                9D                    
+  3D                8D                    
+  9H                                      
+  8H                                      
+  2H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]   QS    4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]   3S    5S    QC  
+  7S    7D    6S    KD    2S    JD    4H  
+  3C    6D    8C    9C          AD        
+  9S    7H                                
+  JC    6H                                
+ 10C    JS                                
+ 10H   10S                                
+  QH    9D                                
+  8S    8D                                
+  3D                                      
+  9H                                      
+  8H                                      
+  2H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]   QS    4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]   3S    5S    QC  
+  7S    7D    6S    KD    2S    JD    4H  
+  3C    6D          9C          AD        
+  9S    7H          8C                    
+  JC    6H                                
+ 10C    JS                                
+ 10H   10S                                
+  QH    9D                                
+  8S    8D                                
+  3D                                      
+  9H                                      
+  8H                                      
+  2H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]   QS    4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]   3S          QC  
+  7S    7D    6S    KD    2S          4H  
+  3C    6D    5S    9C                    
+  9S    7H    JD    8C                    
+  JC    6H    AD                          
+ 10C    JS                                
+ 10H   10S                                
+  QH    9D                                
+  8S    8D                                
+  3D                                      
+  9H                                      
+  8H                                      
+  2H                                      
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]   QS    4C    KC  
+[ 4S] [ 5H] [ AH] [ 7C]   3S    3C    QC  
+  7S    7D    6S    KD    2S    9S    4H  
+        6D    5S    9C          JC        
+        7H    JD    8C         10C        
+        6H    AD               10H        
+        JS                      QH        
+       10S                      8S        
+        9D                      3D        
+        8D                      9H        
+                                8H        
+                                2H        
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C] [ QD] [ 3H]   QS    4C    KC  
+[ 4S] [ 5H]   AH  [ 7C]   3S    3C    QC  
+  7S    7D          KD    2S    9S    4H  
+  6S    6D          9C          JC        
+  5S    7H          8C         10C        
+  JD    6H                     10H        
+  AD    JS                      QH        
+       10S                      8S        
+        9D                      3D        
+        8D                      9H        
+                                8H        
+                                2H        
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C]   QD  [ 3H]   QS    4C    KC  
+[ 4S] [ 5H]       [ 7C]   3S    3C    QC  
+  7S    7D          KD    2S    9S    4H  
+  6S    6D          9C          JC        
+  5S    7H          8C         10C        
+  JD    6H                     10H        
+  AD    JS                      QH        
+       10S                      8S        
+        9D                      3D        
+        8D                      9H        
+                                8H        
+                                2H        
+                                AH        
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C]   QD  [ 3H]   QS    4C    KC  
+[ 4S] [ 5H]   JD  [ 7C]   3S    3C    QC  
+  7S    7D    AD    KD    2S    9S    4H  
+  6S    6D          9C          JC        
+  5S    7H          8C         10C        
+        6H                     10H        
+        JS                      QH        
+       10S                      8S        
+        9D                      3D        
+        8D                      9H        
+                                8H        
+                                2H        
+                                AH        
+RESERVE: [ 2C] [ AC] [ 2D] 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C]   QD  [ 3H]   QS    4C    KC  
+[ 4S] [ 5H]   JD  [ 7C]   3S    3C    QC  
+  7S    7D    AD    KD    2S    9S    4H  
+  6S    6D    2D    9C          JC        
+  5S    7H          8C         10C        
+  2C    6H                     10H        
+        JS                      QH        
+       10S                      8S        
+        9D                      3D        
+        8D                      9H        
+        AC                      8H        
+                                2H        
+                                AH        
+RESERVE: 
+
+
+Move successful!
+
+========================================
+
+[ 5D] [ JH] [ 5C] [ AS]   KS   10D    4D  
+[ KH] [ 6C]   QD  [ 3H]   QS    4C    KC  
+[ 4S] [ 5H]   JD  [ 7C]   3S    3C    QC  
+  7S    7D    AD    KD    2S    9S    4H  
+  6S    6D    2D    9C          JC        
+  5S    7H          8C         10C        
+  2C    6H                     10H        
+  AC    JS                      QH        
+       10S                      8S        
+        9D                      3D        
+        8D                      9H        
+                                8H        
+                                2H        
+                                AH        
+RESERVE: 
+
+
+Computer lost the game

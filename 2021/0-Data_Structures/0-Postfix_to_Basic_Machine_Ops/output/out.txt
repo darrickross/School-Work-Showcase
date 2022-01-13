@@ -1,0 +1,167 @@
+
+========================================
+Input: [ZYX*+WV-/]
+Output:
+
+LD Y
+ML X
+ST TEMP1
+LD Z
+AD TEMP1
+ST TEMP2
+LD W
+SB V
+ST TEMP3
+LD TEMP2
+DV TEMP3
+ST TEMP4
+
+========================================
+Input: [ZY+X-]
+Output:
+
+LD Z
+AD Y
+ST TEMP1
+LD TEMP1
+SB X
+ST TEMP2
+
+========================================
+Input: [ZYX+-]
+Output:
+
+LD Y
+AD X
+ST TEMP1
+LD Z
+SB TEMP1
+ST TEMP2
+
+========================================
+Input: [ZY-X+WVU-+$]
+Output:
+
+LD Z
+SB Y
+ST TEMP1
+LD TEMP1
+AD X
+ST TEMP2
+LD V
+SB U
+ST TEMP3
+LD W
+AD TEMP3
+ST TEMP4
+LD TEMP2
+EX TEMP4
+ST TEMP5
+
+========================================
+Input: [ZYXWV-+$*VU*-]
+Output:
+
+LD W
+SB V
+ST TEMP1
+LD X
+AD TEMP1
+ST TEMP2
+LD Y
+EX TEMP2
+ST TEMP3
+LD Z
+ML TEMP3
+ST TEMP4
+LD V
+ML U
+ST TEMP5
+LD TEMP4
+SB TEMP5
+ST TEMP6
+
+========================================
+Input: [ZYX+*XYZ-+*]
+Output:
+
+LD Y
+AD X
+ST TEMP1
+LD Z
+ML TEMP1
+ST TEMP2
+LD Y
+SB Z
+ST TEMP3
+LD X
+AD TEMP3
+ST TEMP4
+LD TEMP2
+ML TEMP4
+ST TEMP5
+
+========================================
+Input: [ZYX+/XYZ*+]
+Output:
+
+ERROR parsing [ZYX+/XYZ*+]
+ERROR: After parsing, the stack was left with 2 operands. Stack: cap: 10 {[TEMP2], [TEMP4], }
+
+========================================
+Input: [ZY-*XYZ+-*]
+Output:
+
+ERROR parsing [ZY-*XYZ+-*]
+ERROR: Expected 2+ values on the stack, stack size = [1]
+Op [*] @pos: 3
+Operand Stack:cap: 10 {[TEMP1], }
+
+========================================
+Input: [ZYX-/YZ-+/]
+Output:
+
+ERROR parsing [ZYX-/YZ-+/]
+ERROR: Expected 2+ values on the stack, stack size = [1]
+Op [/] @pos: 9
+Operand Stack:cap: 10 {[TEMP4], }
+
+========================================
+Input: [ZYX+$XYZ-+*]
+Output:
+
+LD Y
+AD X
+ST TEMP1
+LD Z
+EX TEMP1
+ST TEMP2
+LD Y
+SB Z
+ST TEMP3
+LD X
+AD TEMP3
+ST TEMP4
+LD TEMP2
+ML TEMP4
+ST TEMP5
+
+========================================
+Input: [ZY0+/XYZ+-/]
+Output:
+
+LD Y
+AD 0
+ST Y
+LD Z
+DV Y
+ST TEMP1
+LD Y
+AD Z
+ST TEMP2
+LD X
+SB TEMP2
+ST TEMP3
+LD TEMP1
+DV TEMP3
+ST TEMP4

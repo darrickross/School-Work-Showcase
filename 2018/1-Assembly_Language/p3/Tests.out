@@ -1,0 +1,83 @@
+Following are test inputs/outputs, that your code submission needs to pass for full 'correctness' credit
+
+Test 1
+
+Enter Number: 18446744073709551615
+
+Hexadecimal value is: FFFFFFFFFFFFFFFF
+
+Test 2
+
+Enter Number: afadf
+
+Invalid Input!
+
+
+
+Test 3
+
+Enter Number: 245453
+
+Invalid Input!
+
+
+
+Test 4
+
+Enter Number: afdg dbdgbsgbfnnhnfhnh45647637
+
+Invalid Input!
+
+
+
+Test 5
+
+Enter Number: 3564276575375787dfjhfdjdtj
+
+Invalid Input!
+
+
+
+Test 6
+
+
+
+Enter Number: 1107895634578278122
+
+Hexadecimal value is: F600935B33E86EA
+
+
+
+
+Test 7 
+
+Enter Number: 9223372036854775808
+
+Hexadecimal value is: 8000000000000000
+
+
+
+Test 8
+
+Enter Number: 12683270251100288260
+
+Hexadecimal value is: B0040718331CB504
+
+
+
+Test 9
+
+Enter Number: 15683272751237288260
+
+Hexadecimal value is: D9A62D79450FD144
+
+
+
+Test 10
+
+Enter Number: 9346678735677288564
+
+Hexadecimal value is: 81B612CA0DBDF074
+
+
+

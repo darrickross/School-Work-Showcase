@@ -1,0 +1,50 @@
+
+========================================
+Input: [-A+BC-A+BC]
+Output:
+ABC+-
+
+========================================
+Input: [-A+BC-A+BC-A+BC-A+BC]
+Output:
+ABC+-
+
+========================================
+Input: [A]
+Output:
+ERROR: Input too small, size=1
+
+========================================
+Input: [A*]
+Output:
+ERROR: Input too small, size=2
+
+========================================
+Input: [*A]
+Output:
+ERROR: Input too small, size=2
+
+========================================
+Input: [*]
+Output:
+ERROR: Input too small, size=1
+
+========================================
+Input: [/AB]
+Output:
+AB/
+
+========================================
+Input: [\AB]
+Output:
+ERROR: Missing leading Operator
+
+========================================
+Input: [TEMP2]
+Output:
+ERROR: Missing leading Operator
+
+========================================
+Input: [*****12*34*56*78*90]
+Output:
+12*34**56**78**90**

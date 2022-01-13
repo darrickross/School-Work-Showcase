@@ -1,0 +1,14 @@
+1.ex    (A)             (cons 'A null)                                                          (list 'A)
+1.a     (A B)           (cons 'A (cons 'B null))                                                (list 'A 'B)
+1.b     ((A B))         (cons (cons 'A (cons 'B null)) null)                                    (list (list 'A 'B))
+1.c     (A (B))         (cons 'A (cons (cons 'B null) null))                                    (list 'A (list 'B))
+1.d     (((A)) (B))     (cons (cons (cons 'A null) null) (cons (cons 'B null) null))            (list (list (list 'A)) (list 'B))
+1.e     (A (B) ((C)))   (cons 'A (cons (cons 'B null) (cons (cons (cons 'C null) null) null)))  (list 'A (list 'B) (list (list 'C)))
+
+
+2.ex    (x)                     (car S)
+2.a     ((1) x 2)               (car (cdr S))
+2.b     (1 (x) 2)               (car (car (cdr S)))
+2.c     (1 2 (x))               (car (car (cdr (cdr S))))
+2.d     (1 (2 x))               (car (cdr (car (cdr S))))
+2.e     ((1) (2) (x) (3))       (car (car (cdr (cdr S))))

@@ -1,0 +1,4 @@
+/bin/ls
+/bin/echo "test 1" "test 2" "test 3"
+/bin/pwd
+im going to fail!!

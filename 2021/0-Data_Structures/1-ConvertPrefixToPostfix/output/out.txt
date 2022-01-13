@@ -1,0 +1,55 @@
+
+========================================
+Input: [-+ABC]
+Output:
+AB+C-
+
+========================================
+Input: [-A+BC]
+Output:
+ABC+-
+
+========================================
+Input: [$+-ABC+D-EF]
+Output:
+AB-C+DEF-+$
+
+========================================
+Input: [-*A$B+C-DE*EF]
+Output:
+ABCDE-+$*EF*-
+
+========================================
+Input: [**A+BC+C-BA]
+Output:
+ABC+*CBA-+*
+
+========================================
+Input: [/A+BC +C*BA]
+Output:
+ABC+/
+
+========================================
+Input: [*-*-ABC+BA]
+Output:
+ERROR: Out of bounds while parsing.
+
+========================================
+Input: [/+/A-BC-BA]
+Output:
+ERROR: Out of bounds while parsing.
+
+========================================
+Input: [*$A+BC+C-BA]
+Output:
+ABC+$CBA-+*
+
+========================================
+Input: [//A+B0-C+BA]
+Output:
+AB0+/CBA+-/
+
+========================================
+Input: [*$A^BC+C-BA]
+Output:
+ABC^$CBA-+*

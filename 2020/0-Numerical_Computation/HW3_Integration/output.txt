@@ -1,0 +1,27 @@
+Loaded trapezoide.py
+Loaded gaulegf.py
+Starting Homework 3:
+Part 1:
+Comparing Trapezodial Integration to Exact Integration
+        Results for points: 16
+                T: 0.45954804321221476, M: 0.45969769413186023, Error: 0.00014965091964547206
+        Results for points: 32
+                T: 0.4596602832288359, M: 0.45969769413186023, Error: 3.741090302433747e-05
+        Results for points: 64
+                T: 0.4596883415202747, M: 0.45969769413186023, Error: 9.352611585522475e-06
+        Results for points: 128
+                T: 0.45969535598609934, M: 0.45969769413186023, Error: 2.3381457608939726e-06
+Comparing Gauss Legendre numerical quadrature to Exact Integration
+        Results for points: 8
+                G: 0.4596976941318575, M: 0.45969769413186023, Error: 2.7200464103316335e-15
+        Results for points: 16
+                G: 0.45969769413185774, M: 0.45969769413186023, Error: 2.4980018054066022e-15
+Part 2:
+For the given circles
+        Circle 1 center at (2,2) radius 1   (x-2)^2 + (y-2)^2 = 1^2
+        Circle 2 center at (0,2) radius 2    x^2    + (y-2)^2 = 2^2
+        Circle 3 center at (0,0) radius 3    x^2    + y^2     = 3^2
+The estimated area inside Circle 2 and 3, but outside Circle 1 is:
+        For grid size 0.100, the area is estimated as 8.050000
+        For grid size 0.010, the area is estimated as 8.123200
+        For grid size 0.001, the area is estimated as 8.126797

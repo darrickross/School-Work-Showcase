@@ -1,0 +1,324 @@
+Working with input file: 
+./input/asc50.dat
+Sort Method: QuickSort4
+
+Number of Comparisons: 317
+Number of Swaps: 36
+
+
+====================================================================
+Verbose Output: 
+C: 4 S: 0 | Find Median of [0] [24] [49]
+C: 4 S: 1 | Swap [1] [25]
+C: 5 S: 1 | Compare [2] [25]
+C: 6 S: 1 | Compare [3] [25]
+C: 7 S: 1 | Compare [4] [25]
+C: 8 S: 1 | Compare [5] [25]
+C: 9 S: 1 | Compare [6] [25]
+C: 10 S: 1 | Compare [7] [25]
+C: 11 S: 1 | Compare [8] [25]
+C: 12 S: 1 | Compare [9] [25]
+C: 13 S: 1 | Compare [10] [25]
+C: 14 S: 1 | Compare [11] [25]
+C: 15 S: 1 | Compare [12] [25]
+C: 16 S: 1 | Compare [13] [25]
+C: 17 S: 1 | Compare [14] [25]
+C: 18 S: 1 | Compare [15] [25]
+C: 19 S: 1 | Compare [16] [25]
+C: 20 S: 1 | Compare [17] [25]
+C: 21 S: 1 | Compare [18] [25]
+C: 22 S: 1 | Compare [19] [25]
+C: 23 S: 1 | Compare [20] [25]
+C: 24 S: 1 | Compare [21] [25]
+C: 25 S: 1 | Compare [22] [25]
+C: 26 S: 1 | Compare [23] [25]
+C: 27 S: 1 | Compare [24] [25]
+C: 28 S: 1 | Compare [1] [25]
+C: 29 S: 1 | Compare [26] [25]
+C: 30 S: 1 | Compare [27] [25]
+C: 31 S: 1 | Compare [28] [25]
+C: 32 S: 1 | Compare [29] [25]
+C: 33 S: 1 | Compare [30] [25]
+C: 34 S: 1 | Compare [31] [25]
+C: 35 S: 1 | Compare [32] [25]
+C: 36 S: 1 | Compare [33] [25]
+C: 37 S: 1 | Compare [34] [25]
+C: 38 S: 1 | Compare [35] [25]
+C: 39 S: 1 | Compare [36] [25]
+C: 40 S: 1 | Compare [37] [25]
+C: 41 S: 1 | Compare [38] [25]
+C: 42 S: 1 | Compare [39] [25]
+C: 43 S: 1 | Compare [40] [25]
+C: 44 S: 1 | Compare [41] [25]
+C: 45 S: 1 | Compare [42] [25]
+C: 46 S: 1 | Compare [43] [25]
+C: 47 S: 1 | Compare [44] [25]
+C: 48 S: 1 | Compare [45] [25]
+C: 49 S: 1 | Compare [46] [25]
+C: 50 S: 1 | Compare [47] [25]
+C: 51 S: 1 | Compare [48] [25]
+C: 52 S: 1 | Compare [49] [25]
+C: 53 S: 1 | Compare [50] [25]
+C: 53 S: 2 | Swap [1] [25]
+C: 57 S: 2 | Find Median of [0] [11] [23]
+C: 57 S: 3 | Swap [1] [12]
+C: 58 S: 3 | Compare [2] [12]
+C: 59 S: 3 | Compare [3] [12]
+C: 60 S: 3 | Compare [4] [12]
+C: 61 S: 3 | Compare [5] [12]
+C: 62 S: 3 | Compare [6] [12]
+C: 63 S: 3 | Compare [7] [12]
+C: 64 S: 3 | Compare [8] [12]
+C: 65 S: 3 | Compare [9] [12]
+C: 66 S: 3 | Compare [10] [12]
+C: 67 S: 3 | Compare [11] [12]
+C: 68 S: 3 | Compare [1] [12]
+C: 69 S: 3 | Compare [13] [12]
+C: 70 S: 3 | Compare [14] [12]
+C: 71 S: 3 | Compare [15] [12]
+C: 72 S: 3 | Compare [16] [12]
+C: 73 S: 3 | Compare [17] [12]
+C: 74 S: 3 | Compare [18] [12]
+C: 75 S: 3 | Compare [19] [12]
+C: 76 S: 3 | Compare [20] [12]
+C: 77 S: 3 | Compare [21] [12]
+C: 78 S: 3 | Compare [22] [12]
+C: 79 S: 3 | Compare [23] [12]
+C: 80 S: 3 | Compare [24] [12]
+C: 80 S: 4 | Swap [1] [12]
+C: 84 S: 4 | Find Median of [0] [5] [10]
+C: 84 S: 5 | Swap [1] [6]
+C: 85 S: 5 | Compare [2] [6]
+C: 86 S: 5 | Compare [3] [6]
+C: 87 S: 5 | Compare [4] [6]
+C: 88 S: 5 | Compare [5] [6]
+C: 89 S: 5 | Compare [1] [6]
+C: 90 S: 5 | Compare [7] [6]
+C: 91 S: 5 | Compare [8] [6]
+C: 92 S: 5 | Compare [9] [6]
+C: 93 S: 5 | Compare [10] [6]
+C: 94 S: 5 | Compare [11] [6]
+C: 94 S: 6 | Swap [1] [6]
+C: 98 S: 6 | Find Median of [0] [2] [4]
+C: 98 S: 7 | Swap [1] [3]
+C: 99 S: 7 | Compare [2] [3]
+C: 100 S: 7 | Compare [1] [3]
+C: 101 S: 7 | Compare [4] [3]
+C: 102 S: 7 | Compare [5] [3]
+C: 102 S: 8 | Swap [1] [3]
+C: 106 S: 8 | Find Median of [0] [0] [1]
+C: 107 S: 8 | Compare [2] [1]
+C: 111 S: 8 | Find Median of [3] [3] [4]
+C: 112 S: 8 | Compare [5] [4]
+C: 116 S: 8 | Find Median of [6] [8] [10]
+C: 116 S: 9 | Swap [7] [9]
+C: 117 S: 9 | Compare [8] [9]
+C: 118 S: 9 | Compare [7] [9]
+C: 119 S: 9 | Compare [10] [9]
+C: 120 S: 9 | Compare [11] [9]
+C: 120 S: 10 | Swap [7] [9]
+C: 124 S: 10 | Find Median of [6] [6] [7]
+C: 125 S: 10 | Compare [8] [7]
+C: 129 S: 10 | Find Median of [9] [9] [10]
+C: 130 S: 10 | Compare [11] [10]
+C: 134 S: 10 | Find Median of [12] [17] [23]
+C: 134 S: 11 | Swap [13] [18]
+C: 135 S: 11 | Compare [14] [18]
+C: 136 S: 11 | Compare [15] [18]
+C: 137 S: 11 | Compare [16] [18]
+C: 138 S: 11 | Compare [17] [18]
+C: 139 S: 11 | Compare [13] [18]
+C: 140 S: 11 | Compare [19] [18]
+C: 141 S: 11 | Compare [20] [18]
+C: 142 S: 11 | Compare [21] [18]
+C: 143 S: 11 | Compare [22] [18]
+C: 144 S: 11 | Compare [23] [18]
+C: 145 S: 11 | Compare [24] [18]
+C: 145 S: 12 | Swap [13] [18]
+C: 149 S: 12 | Find Median of [12] [14] [16]
+C: 149 S: 13 | Swap [13] [15]
+C: 150 S: 13 | Compare [14] [15]
+C: 151 S: 13 | Compare [13] [15]
+C: 152 S: 13 | Compare [16] [15]
+C: 153 S: 13 | Compare [17] [15]
+C: 153 S: 14 | Swap [13] [15]
+C: 157 S: 14 | Find Median of [12] [12] [13]
+C: 158 S: 14 | Compare [14] [13]
+C: 162 S: 14 | Find Median of [15] [15] [16]
+C: 163 S: 14 | Compare [17] [16]
+C: 167 S: 14 | Find Median of [18] [20] [23]
+C: 167 S: 15 | Swap [19] [21]
+C: 168 S: 15 | Compare [20] [21]
+C: 169 S: 15 | Compare [19] [21]
+C: 170 S: 15 | Compare [22] [21]
+C: 171 S: 15 | Compare [23] [21]
+C: 172 S: 15 | Compare [24] [21]
+C: 172 S: 16 | Swap [19] [21]
+C: 176 S: 16 | Find Median of [18] [18] [19]
+C: 177 S: 16 | Compare [20] [19]
+C: 181 S: 16 | Find Median of [21] [22] [23]
+C: 181 S: 17 | Swap [22] [23]
+C: 182 S: 17 | Compare [22] [23]
+C: 183 S: 17 | Compare [24] [23]
+C: 183 S: 18 | Swap [22] [23]
+C: 187 S: 18 | Find Median of [25] [37] [49]
+C: 187 S: 19 | Swap [26] [38]
+C: 188 S: 19 | Compare [27] [38]
+C: 189 S: 19 | Compare [28] [38]
+C: 190 S: 19 | Compare [29] [38]
+C: 191 S: 19 | Compare [30] [38]
+C: 192 S: 19 | Compare [31] [38]
+C: 193 S: 19 | Compare [32] [38]
+C: 194 S: 19 | Compare [33] [38]
+C: 195 S: 19 | Compare [34] [38]
+C: 196 S: 19 | Compare [35] [38]
+C: 197 S: 19 | Compare [36] [38]
+C: 198 S: 19 | Compare [37] [38]
+C: 199 S: 19 | Compare [26] [38]
+C: 200 S: 19 | Compare [39] [38]
+C: 201 S: 19 | Compare [40] [38]
+C: 202 S: 19 | Compare [41] [38]
+C: 203 S: 19 | Compare [42] [38]
+C: 204 S: 19 | Compare [43] [38]
+C: 205 S: 19 | Compare [44] [38]
+C: 206 S: 19 | Compare [45] [38]
+C: 207 S: 19 | Compare [46] [38]
+C: 208 S: 19 | Compare [47] [38]
+C: 209 S: 19 | Compare [48] [38]
+C: 210 S: 19 | Compare [49] [38]
+C: 211 S: 19 | Compare [50] [38]
+C: 211 S: 20 | Swap [26] [38]
+C: 215 S: 20 | Find Median of [25] [30] [36]
+C: 215 S: 21 | Swap [26] [31]
+C: 216 S: 21 | Compare [27] [31]
+C: 217 S: 21 | Compare [28] [31]
+C: 218 S: 21 | Compare [29] [31]
+C: 219 S: 21 | Compare [30] [31]
+C: 220 S: 21 | Compare [26] [31]
+C: 221 S: 21 | Compare [32] [31]
+C: 222 S: 21 | Compare [33] [31]
+C: 223 S: 21 | Compare [34] [31]
+C: 224 S: 21 | Compare [35] [31]
+C: 225 S: 21 | Compare [36] [31]
+C: 226 S: 21 | Compare [37] [31]
+C: 226 S: 22 | Swap [26] [31]
+C: 230 S: 22 | Find Median of [25] [27] [29]
+C: 230 S: 23 | Swap [26] [28]
+C: 231 S: 23 | Compare [27] [28]
+C: 232 S: 23 | Compare [26] [28]
+C: 233 S: 23 | Compare [29] [28]
+C: 234 S: 23 | Compare [30] [28]
+C: 234 S: 24 | Swap [26] [28]
+C: 238 S: 24 | Find Median of [25] [25] [26]
+C: 239 S: 24 | Compare [27] [26]
+C: 243 S: 24 | Find Median of [28] [28] [29]
+C: 244 S: 24 | Compare [30] [29]
+C: 248 S: 24 | Find Median of [31] [33] [36]
+C: 248 S: 25 | Swap [32] [34]
+C: 249 S: 25 | Compare [33] [34]
+C: 250 S: 25 | Compare [32] [34]
+C: 251 S: 25 | Compare [35] [34]
+C: 252 S: 25 | Compare [36] [34]
+C: 253 S: 25 | Compare [37] [34]
+C: 253 S: 26 | Swap [32] [34]
+C: 257 S: 26 | Find Median of [31] [31] [32]
+C: 258 S: 26 | Compare [33] [32]
+C: 262 S: 26 | Find Median of [34] [35] [36]
+C: 262 S: 27 | Swap [35] [36]
+C: 263 S: 27 | Compare [35] [36]
+C: 264 S: 27 | Compare [37] [36]
+C: 264 S: 28 | Swap [35] [36]
+C: 268 S: 28 | Find Median of [38] [43] [49]
+C: 268 S: 29 | Swap [39] [44]
+C: 269 S: 29 | Compare [40] [44]
+C: 270 S: 29 | Compare [41] [44]
+C: 271 S: 29 | Compare [42] [44]
+C: 272 S: 29 | Compare [43] [44]
+C: 273 S: 29 | Compare [39] [44]
+C: 274 S: 29 | Compare [45] [44]
+C: 275 S: 29 | Compare [46] [44]
+C: 276 S: 29 | Compare [47] [44]
+C: 277 S: 29 | Compare [48] [44]
+C: 278 S: 29 | Compare [49] [44]
+C: 279 S: 29 | Compare [50] [44]
+C: 279 S: 30 | Swap [39] [44]
+C: 283 S: 30 | Find Median of [38] [40] [42]
+C: 283 S: 31 | Swap [39] [41]
+C: 284 S: 31 | Compare [40] [41]
+C: 285 S: 31 | Compare [39] [41]
+C: 286 S: 31 | Compare [42] [41]
+C: 287 S: 31 | Compare [43] [41]
+C: 287 S: 32 | Swap [39] [41]
+C: 291 S: 32 | Find Median of [38] [38] [39]
+C: 292 S: 32 | Compare [40] [39]
+C: 296 S: 32 | Find Median of [41] [41] [42]
+C: 297 S: 32 | Compare [43] [42]
+C: 301 S: 32 | Find Median of [44] [46] [49]
+C: 301 S: 33 | Swap [45] [47]
+C: 302 S: 33 | Compare [46] [47]
+C: 303 S: 33 | Compare [45] [47]
+C: 304 S: 33 | Compare [48] [47]
+C: 305 S: 33 | Compare [49] [47]
+C: 306 S: 33 | Compare [50] [47]
+C: 306 S: 34 | Swap [45] [47]
+C: 310 S: 34 | Find Median of [44] [44] [45]
+C: 311 S: 34 | Compare [46] [45]
+C: 315 S: 34 | Find Median of [47] [48] [49]
+C: 315 S: 35 | Swap [48] [49]
+C: 316 S: 35 | Compare [48] [49]
+C: 317 S: 35 | Compare [50] [49]
+C: 317 S: 36 | Swap [48] [49]
+====================================================================
+Sorted Array: 
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+

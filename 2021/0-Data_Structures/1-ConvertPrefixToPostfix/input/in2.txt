@@ -1,0 +1,10 @@
+-A+BC-A+BC
+-A+BC-A+BC-A+BC-A+BC
+A
+A*
+*A
+*
+/AB
+\AB
+TEMP2
+*****12*34*56*78*90

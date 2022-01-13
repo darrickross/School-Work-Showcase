@@ -1,0 +1,75 @@
+
+========================================
+Input: [A]
+Output:
+
+ERROR parsing [A]
+ERROR: Expected input with more than 2 Characters, Input: [A].
+
+========================================
+Input: [A*]
+Output:
+
+ERROR parsing [A*]
+ERROR: Expected input with more than 2 Characters, Input: [A*].
+
+========================================
+Input: [*]
+Output:
+
+ERROR parsing [*]
+ERROR: Expected input with more than 2 Characters, Input: [*].
+
+========================================
+Input: [AB/]
+Output:
+
+LD A
+DV B
+ST TEMP1
+
+========================================
+Input: [AB\]
+Output:
+
+ERROR parsing [AB\]
+ERROR: After parsing, the stack was left with 3 operands. Stack: cap: 10 {[A], [B], [\], }
+
+========================================
+Input: [TEMP2]
+Output:
+
+ERROR parsing [TEMP2]
+ERROR: After parsing, the stack was left with 5 operands. Stack: cap: 10 {[T], [E], [M], [P], [2], }
+
+========================================
+Input: [12*34*56*78*90*****]
+Output:
+
+LD 1
+ML 2
+ST 2
+LD 3
+ML 4
+ST TEMP1
+LD 5
+ML 6
+ST TEMP2
+LD 7
+ML 8
+ST TEMP3
+LD 9
+ML 0
+ST 0
+LD TEMP3
+ML 0
+ST 0
+LD TEMP2
+ML 0
+ST 0
+LD TEMP1
+ML 0
+ST 0
+LD 2
+ML 0
+ST 0

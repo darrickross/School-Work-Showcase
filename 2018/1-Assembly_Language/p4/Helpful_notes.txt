@@ -1,0 +1,3 @@
+double = 64bit - Double Precision
+float = 32bit - single prec
+long double = 80 bit - ext double prec
